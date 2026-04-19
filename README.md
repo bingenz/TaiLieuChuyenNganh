@@ -27,4 +27,4 @@
 </table>
 
 - My web: https://bingenz.com/
-📩 Lengocthuan09@gmail.com
+- 📩 Lengocthuan09@gmail.com
