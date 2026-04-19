@@ -1,6 +1,6 @@
 ## Giới thiệu
 
-- Mình là sinh viên Khoa Học Máy Tính
+- Mình là sinh viên Khoa Học Máy Tính, Đại học Nguyễn Tất Thành
 - Đây là repo tổng hợp tài liệu môn cơ sở ngành
 - Tài liệu sẽ tiếp tục được cập nhật thêm theo quá trình học và tổng hợp
 
