@@ -1,8 +1,7 @@
 ## Giới thiệu
 
 - Mình là sinh viên Khoa Học Máy Tính
-- Đây là repo tổng hợp tài liệu môn cơ sở ngành
-- Tài liệu sẽ tiếp tục được cập nhật thêm theo quá trình học và tổng hợp
+- Đây là repo tổng hợp tài liệu tham khảo, tài liệu sẽ tiếp tục được cập nhật thêm theo quá trình học và tổng hợp
 
 ---
 
